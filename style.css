@@ -88,6 +88,10 @@ button {
     flex: 0;
 }
 
+button:hover {
+    background-color: steelblue;
+}
+
 .logo {
     font-weight: 700;
     font-size: 24px;
